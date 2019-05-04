@@ -12,15 +12,24 @@ A = [cos(t)  sin(t)  0
 and t = 2\PI / 11
 
 In the program following shortcuts could help to get a better image:
+
 N  ,  n --> increase , decrease number of displaying spheres
+
 R  ,  r --> increase , decrease radius of first sphere
+
 A  ,  a --> increase , decrease the constant "a" in h_1
+
 T  ,  t --> increase , decrease the constant "t" in h_1
+
 L  ,  l --> increase , decrease the legth of drawn axis for x , y, z
+
 X  ,  x --> increase , decrease eye position on the window in x
+
 Y  ,  y --> increase , decrease eye position on the window in y
+
 Z  ,  z --> increase , decrease eye position on the window in z (you can also use mouse wheel to change z)
 
 arrows up , down --> change center of view position in y
+
 arrows right, left --> change center of view position in x
 
